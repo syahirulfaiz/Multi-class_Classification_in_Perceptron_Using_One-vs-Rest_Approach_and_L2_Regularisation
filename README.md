@@ -1,0 +1,2 @@
+# Multi-class_Classification_in_Perceptron_Using_One-vs-Rest_Approach_and_L2_Regularisation
+We simulate the classification using Single Layer Perceptron enhanced with regularisation coefficient
